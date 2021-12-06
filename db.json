@@ -1,4 +1,6 @@
-{
+{   "paging": {
+			"total": 20	
+			},
     "data": [
 			{
 			"RESEARCH_PROJECT_ID": "102",	
@@ -220,9 +222,6 @@
 			"MEDICAL_CONDITION_NAME": "LIPID METABOLISM DISORDER",	
 			"TARGET_NAME": "PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR"
 			}
-			],
-			"paging": {
-			"total": 20	
-			}
-			
+			]
+				
 }			
