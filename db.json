@@ -39,7 +39,7 @@
 			"RESEARCH_PROJECT_ID": "17",	
 			"PROJECT_SHORT_NAME": "B2_INTEGRIN",	
 			"PROJECT_LONG_NAME": "Integrin Beta2",	
-			"PROJECT_OBJECTIVE": "The objective of this project is to identify small molecule antagonists of either CR3 (Complement Receptor type 3) or LFA-1 (Lymphocyte Function-associated Antigen-1), two receptors of the Beta2 Integrin family.  Such antagonists may be therapeutic for stroke and restenosis (CR3) or transplant rejection and psoriasis (LFA-1), as well as other indications, such as asthma.",	
+			"PROJECT_OBJECTIVE": "The objective of this project is to identify small molecule antagonists of either CR3 (Complement Receptor type 3) or LFA-1 (Lymphocyte Function-associated Antigen-1), two receptors of the Beta2 Integrin family. ",	
 			"RESTRICTED": "N",	
 			"M_CODE": "",	
 			"EBR_CODE": "EBR0211",	
@@ -224,4 +224,4 @@
 			}
 			]
 
-}			
+}
