@@ -1,227 +1,108 @@
-{   "paging": {
-			"total": 20	
-			},
+{
     "data": [
 			{
-			"RESEARCH_PROJECT_ID": "102",	
 			"PROJECT_SHORT_NAME": "PDE4",	
 			"PROJECT_LONG_NAME": "Phosphodiesterase IV Inhibitor",	
-			"PROJECT_OBJECTIVE": "M0000239 Identify an orally active compound with an acceptable therapeutic index and potential efficacy against asthma.",	
-			"RESTRICTED": "N",	
-			"M_CODE": "M0000239",	
-			"EBR_CODE": "EBR0287",	
-			"MEDICAL_CONDITION_NAME": "INFLAMMATION",	
-			"TARGET_NAME": "3',5'-CYCLIC-NUCLEOTIDE PHOSPHODIESTERASE IV"
+			"RESTRICTED": "N"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "12",	
 			"PROJECT_SHORT_NAME": "ANTICOAGULANTS",	
 			"PROJECT_LONG_NAME": "Anticoagulant Agent",	
-			"PROJECT_OBJECTIVE": "To identify agents for prevention and treatment of venous thrombosis, cardiac thromboembolism, and for antithrombotic therapy for acute and chronic management of arterial thrombosis.",	
-			"RESTRICTED": "N",	
-			"M_CODE": "",	
-			"EBR_CODE": "EBR0206",	
-			"MEDICAL_CONDITION_NAME": "ISCHAEMIC HEART DISEASE",	
-			"TARGET_NAME": "CARBOXYPEPTIDASE U"
+			"RESTRICTED": "N"	
 			},
 			{
-			"RESEARCH_PROJECT_ID": "16",	
 			"PROJECT_SHORT_NAME": "ARRHYTHMIA",	
 			"PROJECT_LONG_NAME": "Class III Antiarrhythmic Agents",	
-			"PROJECT_OBJECTIVE": "Explore the role of the KV 1.5 channel blockers which have been shown to be affective in terminating atrial flutter/fibrillation in animal modes",	
-			"RESTRICTED": "N",	
-			"M_CODE": "M0000535",	
-			"EBR_CODE": "EBR0210",	
-			"MEDICAL_CONDITION_NAME": "ARRHYTHMIA",	
-			"TARGET_NAME": "POTASSIUM CHANNEL"
+			"RESTRICTED": "N"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "17",	
 			"PROJECT_SHORT_NAME": "B2_INTEGRIN",	
 			"PROJECT_LONG_NAME": "Integrin Beta2",	
-			"PROJECT_OBJECTIVE": "The objective of this project is to identify small molecule antagonists of either CR3 (Complement Receptor type 3) or LFA-1 (Lymphocyte Function-associated Antigen-1), two receptors of the Beta2 Integrin family. ",	
-			"RESTRICTED": "N",	
-			"M_CODE": "",	
-			"EBR_CODE": "EBR0211",	
-			"MEDICAL_CONDITION_NAME": "ANGINA PECTORIS",	
-			"TARGET_NAME": "INTEGRIN BETA2"
+			"RESTRICTED": "N"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "102",	
 			"PROJECT_SHORT_NAME": "PDE4",	
 			"PROJECT_LONG_NAME": "Phosphodiesterase IV Inhibitor",	
-			"PROJECT_OBJECTIVE": "M0000239 Identify an orally active compound with an acceptable therapeutic index and potential efficacy against asthma.",	
-			"RESTRICTED": "N",	
-			"M_CODE": "M0000239",	
-			"EBR_CODE": "EBR0287",	
-			"MEDICAL_CONDITION_NAME": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE",	
-			"TARGET_NAME": "3',5'-CYCLIC-NUCLEOTIDE PHOSPHODIESTERASE IV"
+			"RESTRICTED": "N"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "110",	
 			"PROJECT_SHORT_NAME": "RENIN",	
 			"PROJECT_LONG_NAME": "Renin Inhibitor",	
-			"PROJECT_OBJECTIVE": "M0002368 Renin Inhibitor",	
-			"RESTRICTED": "Y",	
-			"M_CODE": "M0002368",	
-			"EBR_CODE": "EBR0294",	
-			"MEDICAL_CONDITION_NAME": "HYPERTENSION",	
-			"TARGET_NAME": "RENIN"
+			"RESTRICTED": "Y"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "230",	
 			"PROJECT_SHORT_NAME": "HGP",	
 			"PROJECT_LONG_NAME": "Hepatic glycogen phosphorylase A inhibition",
-			"PROJECT_OBJECTIVE": "The objective is to identify a compound that inhibits mammalian hepatic glycogen phosphorylase A, resulting in decreased hepatic glucose production and lowered plasma glucose levels in vivo.",
-			"RESTRICTED": "N",	
-			"M_CODE": "M0000191",	
-			"EBR_CODE": "EBR0320",	
-			"MEDICAL_CONDITION_NAME": "DIABETES MELLITUS",	
-			"TARGET_NAME": "LIVER GLYCOGEN PHOSPHORYLASE"
+			"RESTRICTED": "N"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "12",	
 			"PROJECT_SHORT_NAME": "ANTICOAGULANTS",	
 			"PROJECT_LONG_NAME": "Anticoagulant Agent",	
-			"PROJECT_OBJECTIVE": "To identify agents for prevention and treatment of venous thrombosis, cardiac thromboembolism, and for antithrombotic therapy for acute and chronic management of arterial thrombosis.",	
-			"RESTRICTED": "N",	
-			"M_CODE": "",	
-			"EBR_CODE": "EBR0206",	
-			"MEDICAL_CONDITION_NAME": "THROMBOSIS",	
-			"TARGET_NAME": "CARBOXYPEPTIDASE U"
+			"RESTRICTED": "N"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "106",	
 			"PROJECT_SHORT_NAME": "PPAR",	
 			"PROJECT_LONG_NAME": "Peroxisome Proliferator-Activated Receptor Agonist",	
-			"PROJECT_OBJECTIVE": "Identify dual PPAR gamma/PPAR alpha agonists for Type II diabetes and/or dyslipidemia.",	
-			"RESTRICTED": "N",	
-			"M_CODE": "M0000616",	
-			"EBR_CODE": "EBR0291",	
-			"MEDICAL_CONDITION_NAME": "DIABETES MELLITUS",	
-			"TARGET_NAME": "PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR"
+			"RESTRICTED": "N"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "110",	
 			"PROJECT_SHORT_NAME": "RENIN",	
 			"PROJECT_LONG_NAME": "Renin Inhibitor",	
-			"PROJECT_OBJECTIVE": "M0002368 Renin Inhibitor",	
-			"RESTRICTED": "Y",	
-			"M_CODE": "M0002368",	
-			"EBR_CODE": "EBR0294",	
-			"MEDICAL_CONDITION_NAME": "CARDIOVASCULAR DISORDER",	
-			"TARGET_NAME": "RENIN"
+			"RESTRICTED": "Y"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "110",	
 			"PROJECT_SHORT_NAME": "RENIN",	
 			"PROJECT_LONG_NAME": "Renin Inhibitor",	
-			"PROJECT_OBJECTIVE": "M0002368 Renin Inhibitor",	
-			"RESTRICTED": "Y",	
-			"M_CODE": "M0002368",	
-			"EBR_CODE": "EBR0294",	
-			"MEDICAL_CONDITION_NAME": "EYE DISORDER",	
-			"TARGET_NAME": "RENIN"
+			"RESTRICTED": "Y"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "17",	
 			"PROJECT_SHORT_NAME": "B2_INTEGRIN",	
 			"PROJECT_LONG_NAME": "Integrin Beta2",	
-			"PROJECT_OBJECTIVE": "The objective of this project is to identify small molecule antagonists of either CR3 (Complement Receptor type 3) or LFA-1 (Lymphocyte Function-associated Antigen-1), two receptors of the Beta2 Integrin family.  Such antagonists may be therapeutic for stroke and restenosis (CR3) or transplant rejection and psoriasis (LFA-1), as well as other indications, such as asthma.",	
-			"RESTRICTED": "N",	
-			"M_CODE": "",	
-			"EBR_CODE": "EBR0211",	
-			"MEDICAL_CONDITION_NAME": "ARRHYTHMIA",	
-			"TARGET_NAME": "INTEGRIN BETA2"
+			"RESTRICTED": "N"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "112",	
 			"PROJECT_SHORT_NAME": "SOMATOSTATIN",	
 			"PROJECT_LONG_NAME": "Somatostatin Receptor Agonist",	
-			"PROJECT_OBJECTIVE": "Identify the therapeutic potential of somatostatin receptor agonists in the treatment of type II diabetes and in the prevention of retinal proliferative neovascularization.",	
-			"RESTRICTED": "N",	
-			"M_CODE": "",	
-			"EBR_CODE": "EBR0296",	
-			"MEDICAL_CONDITION_NAME": "DIABETES MELLITUS",	
-			"TARGET_NAME": "SOMATOSTATIN RECEPTORS"
+			"RESTRICTED": "N"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "11",	
 			"PROJECT_SHORT_NAME": "ANTIBACTERIAL_ANTIBIOTICS",	
 			"PROJECT_LONG_NAME": "Antibacterial Antibiotics",	
-			"PROJECT_OBJECTIVE": "Develop important leads for novel antimicrobial agents.",	
-			"RESTRICTED": "N",	
-			"M_CODE": "",	
-			"EBR_CODE": "EBR0205",	
-			"MEDICAL_CONDITION_NAME": "BACTERIAL INFECTION",	
-			"TARGET_NAME": "FUNCTIONAL_TARGET"
+			"RESTRICTED": "N"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "102",	
 			"PROJECT_SHORT_NAME": "PDE4",	
 			"PROJECT_LONG_NAME": "Phosphodiesterase IV Inhibitor",	
-			"PROJECT_OBJECTIVE": "M0000239 Identify an orally active compound with an acceptable therapeutic index and potential efficacy against asthma.",	
-			"RESTRICTED": "N",	
-			"M_CODE": "M0000239",	
-			"EBR_CODE": "EBR0287",	
-			"MEDICAL_CONDITION_NAME": "ASTHMA",	
-			"TARGET_NAME": "3',5'-CYCLIC-NUCLEOTIDE PHOSPHODIESTERASE IV"
+			"RESTRICTED": "N"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "15",	
 			"PROJECT_SHORT_NAME": "ANTIVIRALS",	
 			"PROJECT_LONG_NAME": "Antiviral Chemotherapeutics",	
-			"PROJECT_OBJECTIVE": "Antiviral Chemotherapeutics",	
-			"RESTRICTED": "N",	
-			"M_CODE": "",	
-			"EBR_CODE": "EBR0209",	
-			"MEDICAL_CONDITION_NAME": "VIRAL INFECTION",	
-			"TARGET_NAME": "FUNCTIONAL_TARGET"
+			"RESTRICTED": "N"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "17",	
 			"PROJECT_SHORT_NAME": "B2_INTEGRIN",	
 			"PROJECT_LONG_NAME": "Integrin Beta2",	
-			"PROJECT_OBJECTIVE": "The objective of this project is to identify small molecule antagonists of either CR3 (Complement Receptor type 3) or LFA-1 (Lymphocyte Function-associated Antigen-1), two receptors of the Beta2 Integrin family.  Such antagonists may be therapeutic for stroke and restenosis (CR3) or transplant rejection and psoriasis (LFA-1), as well as other indications, such as asthma.",	
-			"RESTRICTED": "N",	
-			"M_CODE": "",	
-			"EBR_CODE": "EBR0211",	
-			"MEDICAL_CONDITION_NAME": "THROMBOSIS",	
-			"TARGET_NAME": "INTEGRIN BETA2"
+			"RESTRICTED": "N"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "14",	
 			"PROJECT_SHORT_NAME": "ANTIPARASITICS",	
 			"PROJECT_LONG_NAME": "Antiparasitic Chemotherapeutics",	
-			"PROJECT_OBJECTIVE": "Antiparasitic Chemotherapeutics",	
-			"RESTRICTED": "N",	
-			"M_CODE": "",	
-			"EBR_CODE": "EBR0208",	
-			"MEDICAL_CONDITION_NAME": "INFECTION PARASITIC",	
-			"TARGET_NAME": "FUNCTIONAL_TARGET"
+			"RESTRICTED": "N"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "17",	
 			"PROJECT_SHORT_NAME": "B2_INTEGRIN",	
 			"PROJECT_LONG_NAME": "Integrin Beta2",	
-			"PROJECT_OBJECTIVE": "The objective of this project is to identify small molecule antagonists of either CR3 (Complement Receptor type 3) or LFA-1 (Lymphocyte Function-associated Antigen-1), two receptors of the Beta2 Integrin family.  Such antagonists may be therapeutic for stroke and restenosis (CR3) or transplant rejection and psoriasis (LFA-1), as well as other indications, such as asthma.",	
-			"RESTRICTED": "N",	
-			"M_CODE": "",	
-			"EBR_CODE": "EBR0211",	
-			"MEDICAL_CONDITION_NAME": "ISCHAEMIC HEART DISEASE",	
-			"TARGET_NAME": "INTEGRIN BETA2"
+			"RESTRICTED": "N"
 			},
 			{
-			"RESEARCH_PROJECT_ID": "106",	
 			"PROJECT_SHORT_NAME": "PPAR",	
 			"PROJECT_LONG_NAME": "Peroxisome Proliferator-Activated Receptor Agonist",	
-			"PROJECT_OBJECTIVE": "Identify dual PPAR gamma/PPAR alpha agonists for Type II diabetes and/or dyslipidemia.",	
-			"RESTRICTED": "N",	
-			"M_CODE": "M0000616",	
-			"EBR_CODE": "EBR0291",	
-			"MEDICAL_CONDITION_NAME": "LIPID METABOLISM DISORDER",	
-			"TARGET_NAME": "PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR"
+			"RESTRICTED": "N"
 			}
-			]
-
-}
+			],
+			"paging": {
+			"total": 20	
+			}
+			
+}			
